@@ -1,0 +1,56 @@
+#Home{
+    text-align: center;
+    background-color:tomato;
+    font-family: 'Montserrat', sans-serif;
+}
+#description{
+    padding: 7% 15%;
+    margin: 10;
+    text-align: center;
+}
+.sicons{
+    color: tomato;
+}
+#cricket{
+    background-color: tomato;
+    
+}
+.sub{
+    padding: 5% 15%;
+}
+.heading{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+#football{
+    margin-top: 7%;
+}
+#basketball{
+    margin-top: 7%;
+    background-color: tomato;
+}
+.gg{
+    padding: 7% 15%;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+text-align: center;
+    color: black;
+}
+.footer{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: tomato;
+}
+.carousel-control-prev{
+background-color: black;
+}
+.carousel-control-next{
+background-color: black;
+}
